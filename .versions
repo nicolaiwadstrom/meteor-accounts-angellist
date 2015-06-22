@@ -23,7 +23,7 @@ meteor@1.1.6
 minifiers@1.1.5
 minimongo@1.0.8
 mongo@1.1.0
-nicolaiwadstrom:meteor-accounts-angellist@0.0.1
+nicolaiwadstrom:meteor-accounts-angellist@0.0.5
 oauth@1.1.4
 oauth2@1.1.3
 observe-sequence@1.0.6
