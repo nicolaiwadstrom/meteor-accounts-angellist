@@ -1,7 +1,7 @@
 Package.describe({
   name: "nicolaiwadstrom:meteor-accounts-angellist",
   summary: "Login service for AngelList accounts",
-  version: "0.0.5",
+  version: "0.0.8",
   git: "https://github.com/nicolaiwadstrom/meteor-accounts-angellist.git"
 });
 
